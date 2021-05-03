@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_crud",
+  "version": "1.0.0",
+  "description": "First crud operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amita999/nodeJS_crud.git"
+  },
+  "author": "Amita Jethani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amita999/nodeJS_crud/issues"
+  },
+  "homepage": "https://github.com/Amita999/nodeJS_crud#readme"
+}
